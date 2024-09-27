@@ -1,9 +1,9 @@
 # Java Programming Repository
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
-![GitHub issues](https://img.shields.io/github/issues/pradeep-1496/your-repo-name)
-![GitHub forks](https://img.shields.io/github/forks/pradeep-1496/your-repo-name)
-![GitHub stars](https://img.shields.io/github/stars/pradeep-1496/your-repo-name)
+![GitHub issues](https://img.shields.io/github/issues/pradeep-1496/java)
+![GitHub forks](https://img.shields.io/github/forks/pradeep-1496/java)
+![GitHub stars](https://img.shields.io/github/stars/pradeep-1496/java)
 ![License](https://img.shields.io/badge/license-MIT-brightgreen)
 
 ## Description
@@ -32,4 +32,4 @@ To get started with the code in this repository, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/pradeep-1496/your-repo-name.git
+   git clone https://github.com/pradeep-1496/java.git
